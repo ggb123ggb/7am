@@ -1,0 +1,15 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
+*~
+
+# 敏感信息，别推上去
+.env
+secrets/
+*.key
+*.pem
