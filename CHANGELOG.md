@@ -7,3 +7,4 @@
 - 2026-11-20 — 新增 environment/ 插件清单 — 换机器时能照着恢复
 - 2026-11-20 — 新增 environment/skills.md、skills.json — 技能清单归位
 - 2026-11-20 — 归档 a-stock-data 第三方技能 — 换机器可恢复
+- 2026-11-20 — 归档 uzi-skill（MIT，含实测记录） — 与 a-stock-data 互补：一个取数一个分析

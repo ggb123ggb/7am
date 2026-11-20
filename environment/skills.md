@@ -68,3 +68,5 @@ description: 一句话说清什么时候该用它
 
 副本存于 skills/a-stock-data/（含 SKILL.md、LICENSE、SOURCE.md）。依赖：requests / mootdx / baostock / stockstats / xlrd / pandas / numpy / openpyxl。
 
+| `uzi-skill` | V3.9.4 | https://github.com/wbh604/UZI-Skill （MIT） | `skills/uzi-skill/` |
+

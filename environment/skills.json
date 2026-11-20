@@ -53,6 +53,14 @@
                        "repo":  "https://github.com/simonlin1212/a-stock-data",
                        "version":  "V3.10.0",
                        "license":  "Apache-2.0"
+                   },
+                   {
+                       "name":  "uzi-skill",
+                       "source":  "third-party",
+                       "purpose":  "A股/港股/美股个股深度分析报告（22维×66评委）",
+                       "repo":  "https://github.com/wbh604/UZI-Skill",
+                       "version":  "3.9.4",
+                       "license":  "MIT"
                    }
                ],
     "installedPath":  "\u003cworkspace\u003e\\.agents\\skills\\\u003cname\u003e\\SKILL.md"
