@@ -58,3 +58,5 @@ environment/plugins.md` 记录了这台机器装的 DSH 插件和版本，换机
 
 `environment/skills.md` 记录了可用的技能（skills），以及自装和内置的区别。
 
+
+换机器恢复看 [RESTORE.md](RESTORE.md)：拉仓库 → 装技能 → 装依赖 → 恢复插件，四步。
