@@ -56,3 +56,5 @@ git push
 
 environment/plugins.md` 记录了这台机器装的 DSH 插件和版本，换机器时照着恢复。
 
+`environment/skills.md` 记录了可用的技能（skills），以及自装和内置的区别。
+
