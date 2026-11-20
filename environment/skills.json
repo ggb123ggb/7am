@@ -1,15 +1,59 @@
-{
-  "recordedAt": "2026-11-20",
-  "skills": [
-    { "name": "find-skills", "source": "installed", "purpose": "发现并安装新技能" },
-    { "name": "diagnose-windows-sandbox-acl", "source": "builtin", "purpose": "排查 Windows 沙箱 ACL 拒绝" },
-    { "name": "office", "source": "builtin", "purpose": "Office/PDF 处理总入口" },
-    { "name": "office-docx", "source": "builtin", "purpose": "Word 创建/读取/编辑/校验" },
-    { "name": "office-pptx", "source": "builtin", "purpose": "PowerPoint 创建/读取/编辑/校验" },
-    { "name": "office-xlsx", "source": "builtin", "purpose": "Excel 创建/读取/编辑/校验" },
-    { "name": "office-recalculate", "source": "builtin", "purpose": "重算表格公式并验证" },
-    { "name": "office-render", "source": "builtin", "purpose": "文档渲染成图片检查排版" },
-    { "name": "office-export-pdf", "source": "builtin", "purpose": "Office 文档转 PDF" }
-  ],
-  "installedPath": "<workspace>\\.agents\\skills\\<name>\\SKILL.md"
+﻿{
+    "recordedAt":  "2026-11-20",
+    "skills":  [
+                   {
+                       "name":  "find-skills",
+                       "source":  "installed",
+                       "purpose":  "发现并安装新技能"
+                   },
+                   {
+                       "name":  "diagnose-windows-sandbox-acl",
+                       "source":  "builtin",
+                       "purpose":  "排查 Windows 沙箱 ACL 拒绝"
+                   },
+                   {
+                       "name":  "office",
+                       "source":  "builtin",
+                       "purpose":  "Office/PDF 处理总入口"
+                   },
+                   {
+                       "name":  "office-docx",
+                       "source":  "builtin",
+                       "purpose":  "Word 创建/读取/编辑/校验"
+                   },
+                   {
+                       "name":  "office-pptx",
+                       "source":  "builtin",
+                       "purpose":  "PowerPoint 创建/读取/编辑/校验"
+                   },
+                   {
+                       "name":  "office-xlsx",
+                       "source":  "builtin",
+                       "purpose":  "Excel 创建/读取/编辑/校验"
+                   },
+                   {
+                       "name":  "office-recalculate",
+                       "source":  "builtin",
+                       "purpose":  "重算表格公式并验证"
+                   },
+                   {
+                       "name":  "office-render",
+                       "source":  "builtin",
+                       "purpose":  "文档渲染成图片检查排版"
+                   },
+                   {
+                       "name":  "office-export-pdf",
+                       "source":  "builtin",
+                       "purpose":  "Office 文档转 PDF"
+                   },
+                   {
+                       "name":  "a-stock-data",
+                       "source":  "third-party",
+                       "purpose":  "A股数据接口集合（行情/研报/资金/宏观）",
+                       "repo":  "https://github.com/simonlin1212/a-stock-data",
+                       "version":  "V3.10.0",
+                       "license":  "Apache-2.0"
+                   }
+               ],
+    "installedPath":  "\u003cworkspace\u003e\\.agents\\skills\\\u003cname\u003e\\SKILL.md"
 }

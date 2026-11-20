@@ -59,3 +59,12 @@ description: 一句话说清什么时候该用它
 | 插件 | 扩展 DSH 客户端界面 | 侧边栏、插件市场、余额挂件 |
 | 技能 | AI 干活时加载的说明书 | office 系列、find-skills |
 | 工具 | AI 实际能调的函数 | 读写文件、跑命令、抓网页 |
+
+## 已安装的第三方技能
+
+| 技能 | 版本 | 来源 | 本地路径 |
+|---|---|---|---|
+| `a-stock-data` | V3.10.0 | https://github.com/simonlin1212/a-stock-data （Apache-2.0） | `.agents\skills\a-stock-data\` |
+
+副本存于 skills/a-stock-data/（含 SKILL.md、LICENSE、SOURCE.md）。依赖：requests / mootdx / baostock / stockstats / xlrd / pandas / numpy / openpyxl。
+
